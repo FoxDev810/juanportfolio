@@ -1,0 +1,27 @@
+/*********````********************************************************************
+  ____                                  _____ _
+ / ___|___  ___ _ __ ___   ___  ___    |_   _| |__   ___ _ __ ___   ___  ___
+| |   / _ \/ __| '_ ` _ \ / _ \/ __|_____| | | '_ \ / _ \ '_ ` _ \ / _ \/ __|
+| |__| (_) \__ \ | | | | | (_) \__ \_____| | | | | |  __/ | | | | |  __/\__ \
+ \____\___/|___/_| |_| |_|\___/|___/     |_| |_| |_|\___|_| |_| |_|\___||___/
+
+******************************************************************************/
+
+
+/************ Plugins CSS  **************************************
+
+    Template Name: Clarks - Vcard Template
+    Author: cosmos-themes
+    Envato Profile: https://themeforest.net/user/cosmos-themes
+    version: 1.0
+    Copyright: 2019
+
+****************************************************************/
+
+@import url("plugins/bootstrap.css");
+@import url("plugins/fontawesome.css");
+@import url("plugins/et-line.css");
+@import url("plugins/simplebar.css");
+@import url("plugins/owl.carousel.min.css");
+@import url("plugins/owl.theme.default.min.css");
+@import url("plugins/magnific-popup.css");

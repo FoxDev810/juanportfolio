@@ -1,0 +1,133 @@
+/*********````********************************************************************
+  ____                                  _____ _
+ / ___|___  ___ _ __ ___   ___  ___    |_   _| |__   ___ _ __ ___   ___  ___
+| |   / _ \/ __| '_ ` _ \ / _ \/ __|_____| | | '_ \ / _ \ '_ ` _ \ / _ \/ __|
+| |__| (_) \__ \ | | | | | (_) \__ \_____| | | | | |  __/ | | | | |  __/\__ \
+ \____\___/|___/_| |_| |_|\___/|___/     |_| |_| |_|\___|_| |_| |_|\___||___/
+
+******************************************************************************/
+
+
+/************ Tan Color CSS  **************************************
+
+    Template Name: Clarks - Vcard Template
+    Author: cosmos-themes
+    Envato Profile: https://themeforest.net/user/cosmos-themes
+    version: 1.0
+    Copyright: 2019
+
+****************************************************************/
+
+header .social-links .social-link:hover {
+    color: #F5AE51;
+}
+
+header .logo:before {
+    background-color: #F5AE51;
+}
+
+header .menu-button:before {
+    background-color: #F5AE51;
+}
+
+.main-btn {
+    color: #F5AE51;
+    border-color: #F5AE51;
+}
+
+.main-btn:hover {
+    background-color: #F5AE51;
+    border-color: #F5AE51;
+}
+
+blockquote {
+    border-color: #F5AE51;
+}
+
+.sub-heading h3:before {
+    background: #F5AE51;
+}
+
+.preloader .loading-text span:before {
+    color: #F5AE51;
+}
+
+.section-about .about-info p strong {
+    color: #F5AE51;
+}
+
+.section-about .about-info .about-list li .title:before {
+    background-color: #F5AE51;
+}
+
+.section-about .services .service-item i {
+    color: #F5AE51;
+}
+
+.section-about .testimonials .testimonial-item .description:before {
+    color: #F5AE51;
+}
+
+.section-about .testimonials .testimonial-item .rating li {
+    color: #F5AE51;
+}
+
+.section-blog .blog-item .post-content .cat {
+    color: #F5AE51;
+}
+
+.section-contact .contact-detail .contact-info li .title:before {
+    background-color: #F5AE51;
+}
+
+.section-contact .contact-detail .social-media h4:before {
+    background-color: #F5AE51;
+}
+
+.page.section-home .banner-text .animate-title {
+    color: #F5AE51;
+}
+
+.section-portfolio .portfolio-filter ul li.active {
+    background-color: #F5AE51;
+}
+
+.section-portfolio .portfolio-items .item figure {
+    background: #F5AE51;
+}
+
+.section-resume .experience,
+.section-resume .education {
+    border-color: #F5AE51;
+}
+
+.section-resume .experience h5,
+.section-resume .education h5 {
+    color: #F5AE51;
+}
+
+.section-resume .experience .event:after,
+.section-resume .education .event:after {
+    -webkit-box-shadow: 0 0 0 4px #F5AE51;
+    box-shadow: 0 0 0 4px #F5AE51;
+}
+
+.section-resume .skills .skill-item .progress .progress-bar:after {
+    border-color: #F5AE51;
+}
+
+.section-resume .skills .skill-item .progress .progress-bar {
+    background-color: #F5AE51;
+}
+
+header .back-button:before {
+    background-color: #F5AE51;
+}
+
+.single-blog .blog-category li {
+    border-color: #F5AE51;
+}
+
+.single-blog .blog-category li a {
+    color: #F5AE51;
+}

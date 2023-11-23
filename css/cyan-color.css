@@ -1,0 +1,110 @@
+header .social-links .social-link:hover {
+    color: cyan;
+}
+
+header .logo:before {
+    background-color: cyan;
+}
+
+header .menu-button:before {
+    background-color: cyan;
+}
+
+.main-btn {
+    color: cyan;
+    border-color: cyan;
+}
+
+.main-btn:hover {
+    background-color: cyan;
+    border-color: cyan;
+}
+
+blockquote {
+    border-color: cyan;
+}
+
+.sub-heading h3:before {
+    background: cyan;
+}
+
+.preloader .loading-text span:before {
+    color: cyan;
+}
+
+.section-about .about-info p strong {
+    color: cyan;
+}
+
+.section-about .about-info .about-list li .title:before {
+    background-color: cyan;
+}
+
+.section-about .services .service-item i {
+    color: cyan;
+}
+
+.section-about .testimonials .testimonial-item .description:before {
+    color: cyan;
+}
+
+.section-about .testimonials .testimonial-item .rating li {
+    color: cyan;
+}
+
+.section-blog .blog-item .post-content .cat {
+    color: cyan;
+}
+
+.section-contact .contact-detail .contact-info li .title:before {
+    background-color: cyan;
+}
+
+.section-contact .contact-detail .social-media h4:before {
+    background-color: cyan;
+}
+
+.page.section-home .banner-text .animate-title {
+    color: cyan;
+}
+
+.section-portfolio .portfolio-filter ul li.active {
+    background-color: cyan;
+}
+
+.section-portfolio .portfolio-items .item figure {
+    background: cyan;
+}
+
+.section-resume .experience, .section-resume .education {
+    border-color: cyan;
+}
+
+.section-resume .experience h5, .section-resume .education h5 {
+    color: cyan;
+}
+
+.section-resume .experience .event:after, .section-resume .education .event:after {
+    -webkit-box-shadow: 0 0 0 4px cyan;
+    box-shadow: 0 0 0 4px cyan;
+}
+
+.section-resume .skills .skill-item .progress .progress-bar:after {
+    border-color: cyan;
+}
+
+.section-resume .skills .skill-item .progress .progress-bar {
+    background-color: cyan;
+}
+
+header .back-button:before {
+    background-color: cyan;
+}
+
+.single-blog .blog-category li {
+    border-color: cyan;
+}
+
+.single-blog .blog-category li a {
+    color: cyan;
+}
